@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Shazmeen Shaikh
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning various Front End Technologies
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me shaikhshazmeen2608@gmail.com
+- Connect with me: https://www.linkedin.com/in/shazmeen-shaikh-204950222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
