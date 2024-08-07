@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shazmeen Shaikh</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center"> Detail-oriented final-year BE IT student with a proven track record in web development and data analytics. Demonstrates strong leadership skills by effectively managing projects and guiding teams towards successful outcomes. Committed to precision and excellence in every aspect of work, from project planning to execution  </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
